@@ -1,5 +1,5 @@
 # PicoGreen-Quantification
-Protocol to quantify DNA on the Hamilton robot using PicoGreen
+Protocols to quantify DNA on the Hamilton robot using PicoGreen
 
 Protocol 31 utilises the Hamilton to prepare a plate for quantification, adding PicoGreen reagent, standards and samples
 
